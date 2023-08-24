@@ -1,3 +1,7 @@
+# Bu proje react ogrenme asamasında gelistirmis oldugum projedir.
+
+Bu projedeki ogrendiklerim icin Mehmet Seven'e tesekkuru borç bilirim...
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
